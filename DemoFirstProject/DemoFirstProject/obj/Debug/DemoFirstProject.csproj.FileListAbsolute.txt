@@ -1,0 +1,7 @@
+C:\Users\KINGLY-BL\Documents\GitHub\CWM-UNITY\FristProjectCSharp\DemoFirstProject\DemoFirstProject\bin\Debug\DemoFirstProject.exe.config
+C:\Users\KINGLY-BL\Documents\GitHub\CWM-UNITY\FristProjectCSharp\DemoFirstProject\DemoFirstProject\bin\Debug\DemoFirstProject.exe
+C:\Users\KINGLY-BL\Documents\GitHub\CWM-UNITY\FristProjectCSharp\DemoFirstProject\DemoFirstProject\bin\Debug\DemoFirstProject.pdb
+C:\Users\KINGLY-BL\Documents\GitHub\CWM-UNITY\FristProjectCSharp\DemoFirstProject\DemoFirstProject\obj\Debug\DemoFirstProject.csproj.AssemblyReference.cache
+C:\Users\KINGLY-BL\Documents\GitHub\CWM-UNITY\FristProjectCSharp\DemoFirstProject\DemoFirstProject\obj\Debug\DemoFirstProject.csproj.CoreCompileInputs.cache
+C:\Users\KINGLY-BL\Documents\GitHub\CWM-UNITY\FristProjectCSharp\DemoFirstProject\DemoFirstProject\obj\Debug\DemoFirstProject.exe
+C:\Users\KINGLY-BL\Documents\GitHub\CWM-UNITY\FristProjectCSharp\DemoFirstProject\DemoFirstProject\obj\Debug\DemoFirstProject.pdb

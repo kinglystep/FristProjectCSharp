@@ -10,7 +10,18 @@ namespace DemoFirstProject
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("hello world");
+            int number = 100;
+            float pi = 3.14f;
+            double amount = 10000d;
+            string firstName = "ly";
+            string lastName = "ratana";
+
+            int number2 = 500;
+            int result = number + number2;
+            //Console.Write(result);
+            Console.WriteLine(result);
+
+            Console.ReadLine();
         }
     }
 }
